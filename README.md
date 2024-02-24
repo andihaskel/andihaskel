@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrés 👋
 
-💻 Software Engineer </br>
+💻 Backend Software Engineer </br>
 🇺🇾 Living in Montevideo, Uruguay</br></br>
 
 Find me elsewhere 🌍</br>
